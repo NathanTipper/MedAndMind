@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Merienda');
+body {
+	padding: 0;
+	margin: 0;
+}
+
+header h1 {
+	font-family: 'Merienda', cursive;
+	font-size: 84px;
+	text-decoration: underline;
+	padding: 0;
+	margin: 0;
+	position: relative;
+	top: 50vh;
+	left: 100px;
+	/*color: #4fea83;*/
+}
+
+header {
+	background-color: #4fea83;
+	height: 100vh;
+	padding: 0;
+	margin: 0;
+}
